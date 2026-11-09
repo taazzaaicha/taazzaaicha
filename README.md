@@ -17,4 +17,5 @@ I enjoy building predictive models and turning data into clear decisions, especi
 
 ## 📫 Contact
 - Email: taazzaaicha88@gmail.com
-- LinkedIn: [your link]
+- LinkedIn: www.linkedin.com/in/aicha-taazza
+
